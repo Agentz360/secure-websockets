@@ -25,6 +25,18 @@ fixing regressions shortly after a release.
 Only documented APIs are public. Undocumented, private APIs may change without
 notice.
 
+.. _16.1:
+
+16.1
+----
+
+*In development*
+
+Improvements
+............
+
+* Added wheels for ARMv7, PowerPC, RISC-V, and S/390.
+
 .. _16.0:
 
 16.0
